@@ -3,6 +3,7 @@ import random
 import numpy as np
 from model import mlp
 
+import sys 
 
 
 class DQNAgent(object):
